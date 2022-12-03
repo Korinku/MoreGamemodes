@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["#G#", "BEB", "SGS"],
+  "key": {
+    "#": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
+    "B": {
+      "item": "minecraft:bone"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "S": {
+      "item": "minecraft:spider_eye"
+    }
+  },
+  "result": {
+    "item": "moga:edible_spawner",
+    "count": 1
+  }
+}

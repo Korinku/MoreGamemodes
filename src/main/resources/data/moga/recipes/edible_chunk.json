@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["AAA", "SSS", "DDD"],
+  "key": {
+    "A": {
+      "item": "minecraft:dirt"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "D": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "result": {
+    "item": "moga:edible_chunk",
+    "count": 1
+  }
+}
